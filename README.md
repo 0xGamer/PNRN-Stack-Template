@@ -19,15 +19,15 @@ A full stack TypeScript template [PostgreSQL, Nestjs, React, Node] to quickly ge
 
   <p align="center">
     An awesome PNRN template to jumpstart your projects!
+    <br />/0xGamer/PNRN-Stack-Template
+    <a href="https://github.com/0xGamer/PNRN-Stack-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/0xGamer/PNRN-Stack-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/0xGamer/PNRN-Stack-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/0xGamer/PNRN-Stack-Template/issues">Request Feature</a>
   </p>
 </div>
 
